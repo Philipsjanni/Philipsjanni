@@ -21,6 +21,8 @@ http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9994
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
 http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAIHD 
+http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9954
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD

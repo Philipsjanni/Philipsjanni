@@ -50,7 +50,7 @@ https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/wzk4Y0T.png",DIPOLO TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
-https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:2232 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV

@@ -7,6 +7,8 @@ https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=1
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",NEA TV
 https://live.neatv.gr:8888/hls/neatv_src/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",Village World
+http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD

@@ -1,4 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SPACEX" tvg-id="SPACE X" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/SpaceX-Logo.png",SPACE X STARSHIP 9th Test
+https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/xvolhxT_sWaRXgBMJfgyUOezj9m1fooVvdDgUHVqzPbsoBgbgRsFvc39b6qnub7jSU47TJrkcOKhPmPfsiqqSg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/chunk_1748386219066461750_7_a.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+
+
+
+#EXTINF:-1 tvg-name="Euronews Greek" tvg-id="Euronews Greek" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EURONEWS.png",EURONEWS GREEK
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://ertflix.akamaized.net/ertlive/euronewsgr/default/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="pronews" tvg-id="pronews" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/PRO_NEWS.png",PRO NEWS
+https://pro.free.hr:3887/live/pronewslive.m3u8
+
+#EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_NEWS.png",ERT NEWS
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews2" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_NEWS.png",ERT NEWS 2
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews3" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_NEWS.png",ERT NEWS 3
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
+#EXTINF:10 tvg-name="ertworld" tvg-id="ertworld" group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_World.png",ERT WORLD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
+#EXTINF:11 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VOULI_TV.png",VOULI
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="HellenicParliamentTV2" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VOULI_TV.png",VOULI 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="HellenicParliamentTV3" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VOULI_TV.png",VOULI 3
+#KODIPROP:inputstream=inputstream.adaptive
+https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+#EXTINF:12 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://github.com/manolischania/manalab-iptv/blob/main/logo/ERT_1.png?raw=true",ERT1
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
+#EXTINF:13 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_2.png",ERT2
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+#EXTINF:14 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://github.com/manolischania/manalab-iptv/blob/main/logo/ERT_3.png?raw=true",ERT3
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
+#EXTINF:15 group-title="ΜΟΥΣΙΚΗ" tvg-name=""tvg-logo="https://github.com/manolischania/manalab-iptv/blob/main/logo/ERT_MUSIC.png?raw=true",ERTMUSIC
+#KODIPROP:inputstream=inputstream.adaptive
+https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
+#EXTINF:800 group-title="ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_KIDS.png",ERTKIDS
+https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD

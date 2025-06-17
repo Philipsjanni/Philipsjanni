@@ -75,7 +75,8 @@ http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 #EXTINF:24 group-title="ΚΡΑΤΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
-http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
+https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670
+#http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MEGA_white.png",MEGA NEWS
 https://streamcdnh13-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b1728000.m3u8
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD

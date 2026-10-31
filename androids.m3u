@@ -4,7 +4,7 @@ https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://i.imgur.com/oh9E9sK.png",ERT2 HD
 https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://i.imgur.com/oKxPmQJ.png",ERT3 HD
-https://ert-live.siliconweb.com/bpk-tv/ERT§/default/index.mpd
+https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT NEWS
 https://ert-ucdn.broadpeak-aas.combpk-tv/ERTNews/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertcosmos" tvg-logo="https://i.imgur.com/pMia7tN.png",ERT Cosmos
